@@ -159,14 +159,3 @@ if exist %LocalFilePath% (
 )
 
 exit
-
-
-
-
-
-
-
-
-
-
-REM Add feature to install file that installs the .ps1 script then deletes it after it's over
